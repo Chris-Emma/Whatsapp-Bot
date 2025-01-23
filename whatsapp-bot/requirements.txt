@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-twilio
-python-dotenv
-requests
-sqlite-utils
